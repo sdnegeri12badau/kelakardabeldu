@@ -4,7 +4,7 @@ const CFG = {
   ADMIN_EMAIL: 'sdnegeri12badau12@gmail.com',
   ADMIN_PASS: 'SDN12Badau*',
   NOTIF_EMAIL: 'sartika4113@admin.sd.belajar.id',
-  FOLDER_ID: 'ISI_ID_FOLDER_GOOGLE_DRIVE',
+  FOLDER_ID: '1-yvWpTIzY0EheN04uHAHIsXBRkN9WY0F',
   SHEET: 'Laporan'
 };
 const HEAD = ['Kode','Waktu','Nama','HP','Status Pelapor','Jenis','Deskripsi','Lampiran','Status','Tanggapan'];
